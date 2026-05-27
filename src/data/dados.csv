@@ -1,0 +1,7 @@
+horario,geracao_energia,consumo_energia,reserva_energia,temperatura_interna,radiacao,qualidade_comunicacao
+08:00,85,70,76,22,15,95
+10:00,80,75,70,23,18,90
+12:00,72,82,62,24,22,85
+14:00,60,88,51,25,35,70
+16:00,48,92,38,27,48,55
+18:00,35,96,28,29,65,40
