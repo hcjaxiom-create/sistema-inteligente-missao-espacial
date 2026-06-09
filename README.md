@@ -264,7 +264,7 @@ Exemplo:
 
 ## Link do vídeo
 
-Inserir aqui o link do vídeo no YouTube como "Não listado".
+[Inserir aqui o link do vídeo no YouTube como "Não listado".](https://www.youtube.com/watch?v=BuPPBOTrppw)
 
 ---
 
